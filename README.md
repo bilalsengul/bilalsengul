@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer at Otokoç Otomotiv</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilalsengul" alt="bilalsengul" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilalsengul&theme=juicyfresh" alt="bilalsengul" /></a> </p>
 
 - 🌱 I’m currently learning **Vue.js, .NET Core, Javascript etc.**
 
