@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/bilalsengul" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="bilalsengul" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/bilalsengul" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="bilalsengul" height="30" width="30" /></a>
 
 
 <h3 align="left">Technologies:</h3>
