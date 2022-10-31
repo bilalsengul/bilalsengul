@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilalsengul&theme=juicyfresh" alt="bilalsengul" /></a> </p>
 
-- 🌱 I’m currently learning **Vue.js, .NET Core, Javascript etc.**
+- 🌱 I’m currently learning **Vue.js, React.js, .NET Core, Javascript etc.**
 
 - 📝 My personal page [https://www.bilalsengul.com/](https://www.bilalsengul.com/)
 
