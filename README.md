@@ -6,14 +6,6 @@
 
 ---
 
-<!-- GitHub Trophies -->
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=bilalsengul&theme=onedark&row=1&column=6" alt="GitHub Trophies" />
-  </a>
-</div>
-
----
 
 <!-- About Me -->
 - 🌱 I’m currently working at **Customertimes** as a Software Developer, specializing in **Node.js**, **React.js**, and **DevOps** to deliver high-performance CRM solutions integrated with Salesforce.  
