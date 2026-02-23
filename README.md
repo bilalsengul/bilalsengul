@@ -9,7 +9,7 @@
 
 <!-- About Me -->
 - 🌱 I’m currently working at **Customertimes** as a Software Developer, specializing in **Node.js**, **React.js**, and **DevOps** to deliver high-performance CRM solutions integrated with Salesforce.  
-- 💼 I’ve worked on a variety of technologies like **OutSystems**, **.NET Core**, **Vue.js**, and **AI-driven solutions** during my professional journey.  
+- 💼 I’ve worked on a variety of technologies like **.NET Core**, **Vue.js**, and **AI-driven solutions** during my professional journey.  
 - 🌍 I've collaborated with cross-functional teams across different time zones and developed scalable solutions for international clients.  
 - 📫 Reach me at **bilall.sengull@gmail.com**  
 - 📄 Learn more about my experiences on [bilalsengul.com](https://www.bilalsengul.com/)
