@@ -1,36 +1,21 @@
 <div align="center">
   <!-- Intro -->
   <h1>Hi there, I'm Bilal <img src="https://em-content.zobj.net/thumbs/120/twitter/322/waving-hand_1f44b.png" width="35" /></h1>
-  <h3>Co-Founder & CTO at <a href="https://glossgo.com">glossgo</a> | Senior Software Developer</h3>
+  <h3>Senior Software Developer</h3>
 </div>
 
 ---
 
 <!-- About Me -->
-- 🚀 Co-Founder & CTO at **[glossgo](https://glossgo.com)** — Beauty marketplace for Turkey
-- 💻 Founder of **[Softween](https://softween.com)** — Software company building web & mobile products
-- 🌱 Building with **Next.js**, **Hono**, **Cloudflare Workers**, **React**, **Rust (Tauri)**
-- 🌍 Previously at **Ford** (autonomous driving AI), **Otokoc**, **Customertimes**
+- 💻 Senior Software Developer based in İstanbul
+- 🌱 Building with **Next.js**, **Hono**, **Cloudflare Workers**, **React**, **Rust (Tauri)**, **.NET**
+- 🌍 Experience across enterprise platforms, autonomous driving AI, and cloud-native products
 - 📫 Reach me at **bilall.sengull@gmail.com**
 - 📄 [bilalsengul.com](https://bilalsengul.com)
 
 ---
 
-### Projects
-
-| Project | Description | Link |
-|---------|-------------|------|
-| **glossgo** | Beauty marketplace — discover salons, compare & book | [glossgo.com](https://glossgo.com) |
-| **Softween Hesaplayıcı** | 234+ free calculator tools (finance, tax, health, education) | [hesaplayici.softween.com](https://hesaplayici.softween.com) |
-| **Softween Developer Tools** | 80+ developer utility tools | [donusturucu.softween.com](https://donusturucu.softween.com) |
-| **Exam World** | Exam prep platform for Turkish students | [exams.softween.com](https://exams.softween.com) |
-| **Softween** | Company website — web & mobile development services | [softween.com](https://softween.com) |
-
----
-
 ### Work Experience
-- **Co-Founder & CTO, glossgo** (2024 – Present): Building Turkey's beauty marketplace with AI-powered recommendations and salon management.
-- **Founder, Softween** (2024 – Present): Full-stack development company serving clients with web, mobile, and cloud-native solutions.
 - **Software Developer, Customertimes** (Feb 2024 – Present): Microservices, Salesforce integrations, CI/CD pipelines.
 - **Software Developer, C. Steinweg Online** (Dec 2022 – Jul 2023): OutSystems modules, database design.
 - **Software Developer, Otokoc Automotive** (Sep 2021 – Sep 2022): .NET Core transformations, microservice architecture.
@@ -42,8 +27,6 @@
 <p>
   <a href="https://bilalsengul.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-bilalsengul.com-blue?style=flat-square" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/bilalsengul" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-bilalsengul-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://glossgo.com" target="_blank"><img src="https://img.shields.io/badge/glossgo-Beauty_Marketplace-ff69b4?style=flat-square" alt="glossgo" /></a>
-  <a href="https://softween.com" target="_blank"><img src="https://img.shields.io/badge/Softween-Software_Company-green?style=flat-square" alt="Softween" /></a>
 </p>
 
 ---
